@@ -8,4 +8,4 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://test.ingress.com/eureka
+      defaultZone: http://eureka.ingress.com/eureka
