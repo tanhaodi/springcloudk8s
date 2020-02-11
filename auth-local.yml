@@ -7,6 +7,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://eureka.ingress.com:8761/eureka
+    register-with-eureka: false  #待测试服务暂时不需要注册
+    fetch-registry: true          #拉取服务列表,访问其它服务
 leyou:
   jwt:
     secret: leyou@Login(Auth}*^31)&heiMa% # 登录校验的密钥
