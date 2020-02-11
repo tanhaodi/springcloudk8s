@@ -16,3 +16,6 @@ eureka:
     expire: 30 # 过期时间,单位分钟
     cookieName: LY_TOKEN
     cookieMaxAge: 30
+leyou:
+  user:
+    domain:
