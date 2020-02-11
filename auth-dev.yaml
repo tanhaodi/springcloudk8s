@@ -18,4 +18,4 @@ eureka:
     cookieMaxAge: 30
 leyou:
   user:
-    domain:
+    domain: ""
